@@ -1,0 +1,7 @@
+{
+  "name": "Global Live Sports Tracker",
+  "description": "A real-time sports event search engine and aggregator that helps users find live and upcoming sports events worldwide using Gemini Search Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
